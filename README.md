@@ -1,4 +1,4 @@
-# Techvantage Job Scraper
+#  Job Scraper
 
 This Python script **automatically collects job listings** from a company's(Techvantage's) careers page and **saves them into an Excel file**.
 
